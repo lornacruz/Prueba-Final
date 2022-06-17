@@ -1,0 +1,70 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+
+body{
+	font-size: 14px;
+}
+header{
+	background-color: transparent;
+	position: absolute;
+	width: 100%;
+	padding: 20px 0;
+}
+
+#hero{
+	background-image: url("../img/home-header-bg.jpg");
+	background-size: cover;
+	background-position: top center;
+	min-height: 400px;
+}
+
+footer{
+	background-color: #000;
+	padding: 20px 0;
+	color: #aaa;
+	text-align: center;
+}
+footer h3{
+	color: #fff;
+	font-size: 24px;
+	font-weight: 600;
+}
+footer h3 span{
+	color: #fca756;
+}
+
+#button-ver-video{
+	width: 12%;
+}
+
+#parrafo-hero,#titulo-hero{
+	color: #fff;
+}
+
+#container{
+	margin-top: 100px;
+}
+
+#coaches{
+	display: flex;
+	justify-content: center;
+}
+
+#Persona1{
+	margin: 1%;
+}
+
+#blog{
+	display: flex;
+}
+
+#imagen-footer{
+	width: 25%;
+}
+
+#footer-div{
+display: flex;
+margin: 0;
+padding: 0;
+}
